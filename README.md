@@ -20,3 +20,9 @@
   <img src="https://media.discordapp.net/attachments/912686424497733667/930829886216613898/Captura_de_Tela_209.png?width=810&height=406" />
  </p>
  <h4>Utilizei o Beekeeper Studio, um editor SQL de código aberto e um aplicativo de gerenciamento de banco de dados. Ele é de código aberto e totalmente gratuito, sem necessidade de contas online ou conexão à Internet. O Beekeeper Studio atualmente suporta os seguintes bancos de dados SQLite, MySQL, PostgreSQL e SQL Server.</h4>
+ 
+<h1></h1>
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Python" height="40" style="border-radius:50px;" src="http://ForTheBadge.com/images/badges/made-with-python.svg" /> 
+<img align="center" alt="Rafa-Python" height="40" style="border-radius:50px;"
+     src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python'/>
