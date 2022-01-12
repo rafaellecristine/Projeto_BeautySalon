@@ -19,4 +19,4 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/912686424497733667/930829886216613898/Captura_de_Tela_209.png?width=810&height=406" />
  </p>
- <h3>Utilizei o Beekeeper Studio, um editor SQL de código aberto e um aplicativo de gerenciamento de banco de dados. Ele é de código aberto e totalmente gratuito, sem necessidade de contas online ou conexão à Internet. O Beekeeper Studio atualmente suporta os seguintes bancos de dados SQLite, MySQL, PostgreSQL e SQL Server.</h3>
+ <h4>Utilizei o Beekeeper Studio, um editor SQL de código aberto e um aplicativo de gerenciamento de banco de dados. Ele é de código aberto e totalmente gratuito, sem necessidade de contas online ou conexão à Internet. O Beekeeper Studio atualmente suporta os seguintes bancos de dados SQLite, MySQL, PostgreSQL e SQL Server.</h4>
