@@ -28,3 +28,5 @@
      src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python'/>
 <img align="center" alt="SQLite" height="40" style="border-radius:50px;"
      src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="Canva" height="40" style="border-radius:50px;"
+       src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
