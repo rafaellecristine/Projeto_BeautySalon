@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/912686424497733667/930820889400979456/Captura_de_Tela_208.png?width=347&height=406" />
 </p>
-<h4>Toda a interface gráfica (GUI - Graphic User Interface) foi desenvolvida com a ferramenta Tkinter, uma biblioteca que o Python oferece.</h4>
+<h4>Toda a interface gráfica (GUI - Graphic User Interface) foi desenvolvida com a ferramenta Tkinter, uma biblioteca que o Python oferece. Tk/Tcl tem sido parte integrante do Python. Ele fornece um kit de ferramentas de janela robusto e independente de plataforma, que está disponível para programadores Python usando o pacote tkinter e sua extensão, os módulos tkinter.tix e tkinter.ttk. O pacote tkinter é uma fina camada orientada a objetos no topo do Tcl/Tk. Para usar tkinter, você não precisa escrever o código Tcl, mas precisará consultar a documentação do Tk e, ocasionalmente, a documentação do Tcl. tkinter é um conjunto de envólucros que implementam os widgets Tk como classes Python.</h4>
 
 <h1></h1>
 <h2>Editor SQL de código aberto</h2>
