@@ -7,13 +7,15 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/912686424497733667/930819340381618207/Captura_de_Tela_207.png?width=341&height=406" />
 </p>
-<h4>Toda a interface gráfica (GUI - Graphic User Interface) foi desenvolvida com a ferramenta Tkinter, uma biblioteca que o Python oferece para interfaces gráficas.</h4>
+<h4>Design de fundo e botão foi desenvolvido no Canva, utilizando templates personalizados</h4>
+
 
 <h1></h1>
 <h2>Página de inserção no Banco de Dados</h2>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/912686424497733667/930820889400979456/Captura_de_Tela_208.png?width=347&height=406" />
 </p>
+<h4>Toda a interface gráfica (GUI - Graphic User Interface) foi desenvolvida com a ferramenta Tkinter, uma biblioteca que o Python oferece.</h4>
 
 <h1></h1>
 <h2>Editor SQL de código aberto</h2>
