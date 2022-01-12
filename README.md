@@ -1,1 +1,1 @@
-# Projeto_BeautySalon
+# Projeto Beauty Salon
